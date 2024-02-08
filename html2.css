@@ -1,0 +1,111 @@
+.h1{
+    color: burlywood;
+}
+
+.h3{
+    color:#F266AB;
+    
+}
+
+.hello{
+    height: 300px;
+    width: 300px;
+    background-color: chocolate;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-flex;
+}
+
+.hello1{
+    height:300px;
+    width:300px;
+    background-color: aquamarine;
+    display: inline-flex;
+}
+.hello3{
+    height:300px;
+    width:300px;
+    background-image: url(kobe_bryant.jfif);
+    display: inline-flex;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top;
+}
+.container{
+    height: 150px;
+    width: 100%;
+    display: inline-flex;
+}
+
+.left{
+    height:150px;
+    width: 50%;
+    background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+.right{
+    height: 150px;
+    width: 50%;
+    background-color: brown;
+}
+
+.container2{
+    height: 150px;
+    width: 100%;
+    display: inline-flex;
+}
+.left1{
+    height:150px;
+    width:50%;
+    background-color:cornflowerblue;
+}
+
+.right1{
+    height:150px;
+    width:50%;
+    background-color:greenyellow;
+}
+
+.container3{
+    height: 400px;
+    width: 100%;
+    display:inline-flex;
+}
+
+.one{
+    height: 400px;
+    width: 25%;
+    background-color: blueviolet;
+}
+
+.two{
+    height: 400px;
+    width: 25%;
+    background-color:bisque; 
+}
+
+.three{
+    height: 400px;
+    width: 25%;
+    background-color:burlywood;
+}
+
+.four{
+    height: 400px;
+    width: 25%; 
+}
+
+.four1{
+    height:200px;
+    width: 100%;
+    background-color: black;
+}
+
+.four2{
+    height: 200px;
+    width: 100%;
+    background-color:red;
+}
